@@ -1,0 +1,48 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background: rgb(141, 0, 0);
+color: bisque;
+}
+p {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+}
+
+.topbuttons {
+    display: flex;
+    width: 95vw;
+    margin-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+
+h2 {
+    margin-bottom: -25px;
+    text-align: center;
+}
+
+#vs {
+    text-align: center; 
+}
+
+
+button {
+    height: 200px;
+    width: 500px;
+    margin-left: 25px;
+    margin-top: 50px;
+    font-size: 3em;
+    background: bisque;
+    cursor: pointer;
+    color: rgb(141, 0, 0)
+
+}
+
+#vs {
+    margin-top: 50px;
+    font-size: 30px;
+}
